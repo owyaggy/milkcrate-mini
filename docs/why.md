@@ -7,4 +7,3 @@ permalink: /why/
 ### Why Musical Connection is Worth Pursuing
 
 
-

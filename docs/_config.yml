@@ -45,7 +45,7 @@ minima:
   social_links:
     - title: Mini Milkcrate Pages Repo
       icon: github
-      url: "https://github.com/owyaggy/milkcrate"
+      url: "https://github.com/owyaggy/milkcrate-mini"
     
   hide_site_feed_link: true
 
